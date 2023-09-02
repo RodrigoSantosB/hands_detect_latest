@@ -1,0 +1,4 @@
+## FOR TO RUN THIS SCRIPT, FOLLOW THE FOLLOWING STEPS:
+* 1 Have sure you have python version 3.10.0 installed
+* 2 Run the requirements.txt file whith pip install
+* 3 Select the camera optition in script file for your camera (values possibles: -1, 0, 1)
