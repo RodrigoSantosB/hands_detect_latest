@@ -1,5 +1,5 @@
 # Hands detection using openCv and MediaPipe
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RodrigoSantosB/speech-recognition-signal-project/blob/main/LICENSE) 
+[![NPM](https://github.com/RodrigoSantosB/hands_detect_latest/blob/master/LICENSE) 
 
 
 # About The Project 
